@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_guillemreig",
+  "version": "1.0.0",
+  "description": "porfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillemreig/portfolio_guillemreig.git"
+  },
+  "author": "guillemreig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillemreig/portfolio_guillemreig/issues"
+  },
+  "homepage": "https://github.com/guillemreig/portfolio_guillemreig#readme"
+}
